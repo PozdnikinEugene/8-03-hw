@@ -31,9 +31,9 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
-[Установка раннера] (<img src = "img/01_install_runner.png" width = 100%>)
+[Установка раннера](<img src = "img/01_install_runner.png" width = 100%>)
 
-[Раннер] (<img src = "img/02_runner.png" width = 100%>)
+[Раннер](<img src = "img/02_runner.png" width = 100%>)
 
 
 
