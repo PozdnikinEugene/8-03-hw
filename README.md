@@ -31,9 +31,9 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
-![Установка раннера](https://github.com/PozdnikinEugene/8-03-hw/img/01_install_runner.png)
+![Установка раннера](https://github.com/PozdnikinEugene/8-03-hw/blob/main/img/01_install_runner.png)
 
-![Раннер](https://github.com/PozdnikinEugene/8-03-hw/img/02_runner.png)
+![Раннер](https://github.com/PozdnikinEugene/8-03-hw/blob/main/img/02_runner.png)
 
 
 
@@ -67,11 +67,11 @@ build:
 
 ```
 
-![Упешно пройденный пайплайн](https://github.com/PozdnikinEugene/8-03-hw/img/03_passed_pipeline.png)
+![Упешно пройденный пайплайн](https://github.com/PozdnikinEugene/8-03-hw/blob/main/img/03_passed_pipeline.png)
 
 
-![Этап тест](<img src = "https://github.com/PozdnikinEugene/8-03-hw/img/04_test_pipeline.png)
+![Этап тест](https://github.com/PozdnikinEugene/8-03-hw/blob/main/img/04_test_pipeline.png)
 
 
-![Этап сборка](https://github.com/PozdnikinEugene/8-03-hw/img/05_test_bild.png)
+![Этап сборка](https://github.com/PozdnikinEugene/8-03-hw/blob/main/img/05_test_bild.png)
 
